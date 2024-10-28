@@ -15,17 +15,6 @@
   </ul>
 </div>
 
-## Let's Connect 
-<p align="left">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalp2002prajapati@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kalpprajapati8)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalp-prajapati-0409a020a)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/kalp.prajapati.735)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__k_d_2525)
-  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@kalpPrajapati)
-  
-</p>
 
 ## 💻 Tech Stack:  
 <p align="left"> 
@@ -49,13 +38,29 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
 </p>
-<h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=munnokd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=munnokd&theme=chartreuse-dark&hide_border=false)<br/>
+# Nhóm [Tên Nhóm]
 
-  
+Chúng tôi là nhóm [Tên Nhóm], chuyên về [lĩnh vực/chủ đề]. Mục tiêu của chúng tôi là [mục tiêu của nhóm].
+
+## Thành viên
+| Tên          | Vai trò               | Kinh nghiệm                |
+|--------------|-----------------------|----------------------------|
+| [Tên 1]     | [Vai trò]            | [Mô tả kinh nghiệm]        |
+| [Tên 2]     | [Vai trò]            | [Mô tả kinh nghiệm]        |
+| [Tên 3]     | [Vai trò]            | [Mô tả kinh nghiệm]        |
+
+## Dự án hiện tại
+- **[Tên Dự án 1]**: [Mô tả chi tiết]
+- **[Tên Dự án 2]**: [Mô tả chi tiết]
+
+## Cách thức hợp tác
+Chúng tôi rất vui được hợp tác với những người có cùng sở thích! Nếu bạn muốn tham gia hoặc có ý tưởng, hãy gửi cho chúng tôi một tin nhắn qua [liên kết liên hệ].
+
+## Theo dõi chúng tôi
+- [Twitter](link)
+- [LinkedIn](link)
+- [Website](link)
+
 </div>
 
 
