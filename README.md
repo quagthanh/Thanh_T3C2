@@ -40,26 +40,20 @@
 </p>
 # Nhóm [Tên Nhóm]
 
-Chúng tôi là nhóm [Tên Nhóm], chuyên về [lĩnh vực/chủ đề]. Mục tiêu của chúng tôi là [mục tiêu của nhóm].
+Chúng tôi là nhóm 5, chuyên nghành công nghệ phần mềm . Mục tiêu của chúng tôi là xây dựng 1 trang web bán laptop.
 
 ## Thành viên
-| Tên          | Vai trò               | Kinh nghiệm                |
+| Tên          | Vai trò                       |
 |--------------|-----------------------|----------------------------|
-| [Tên 1]     | [Vai trò]            | [Mô tả kinh nghiệm]        |
-| [Tên 2]     | [Vai trò]            | [Mô tả kinh nghiệm]        |
-| [Tên 3]     | [Vai trò]            | [Mô tả kinh nghiệm]        |
+|Đinh Quang Thành      | Leader           | 
+| Phạm Huỳnh Nhật Huy     | Developer         
+| Nguyễn Thẩm Văn Hào    | Srum Master          |
+| Lưu Nhật Đăng    | Product Owner          |
+| Lê Đức Ngọc Huy  | Developer           | 
+| Nguyễn Hà Xuân Tài   | Developer         | 
 
 ## Dự án hiện tại
-- **[Tên Dự án 1]**: [Mô tả chi tiết]
-- **[Tên Dự án 2]**: [Mô tả chi tiết]
-
-## Cách thức hợp tác
-Chúng tôi rất vui được hợp tác với những người có cùng sở thích! Nếu bạn muốn tham gia hoặc có ý tưởng, hãy gửi cho chúng tôi một tin nhắn qua [liên kết liên hệ].
-
-## Theo dõi chúng tôi
-- [Twitter](link)
-- [LinkedIn](link)
-- [Website](link)
+- **Web Bán Laptop**: Để cạnh tranh và tăng doanh thu cũng như mở rộng hoạt động kinh doanh, công ty muốn xây dựng một hệ thống thương mại điện tử nhằm mở rộng phạm vi bán hàng trực tuyến.
 
 </div>
 
