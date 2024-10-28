@@ -16,7 +16,28 @@
 </div>
 
 
-## 💻 Tech Stack:  
+</p>
+# Nhóm 
+
+Chúng tôi là nhóm 5, chuyên nghành công nghệ phần mềm . Mục tiêu của chúng tôi là xây dựng 1 trang web bán laptop.
+
+## Thành viên
+| Tên          | Vai trò                       |
+|--------------|-----------------------|----------------------------|
+|Đinh Quang Thành      | Leader           | 
+| Phạm Huỳnh Nhật Huy     | Developer         
+| Nguyễn Thẩm Văn Hào    | Srum Master          |
+| Lưu Nhật Đăng    | Product Owner          |
+| Lê Đức Ngọc Huy  | Developer           | 
+| Nguyễn Hà Xuân Tài   | Developer         | 
+
+## Dự án hiện tại
+- **Web Bán Laptop**: Để cạnh tranh và tăng doanh thu cũng như mở rộng hoạt động kinh doanh, công ty muốn xây dựng một hệ thống thương mại điện tử nhằm mở rộng phạm vi bán hàng trực tuyến.
+
+</div>
+
+
+## 💻 Technology:  
 <p align="left"> 
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -37,24 +58,4 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
-</p>
-# Nhóm [Tên Nhóm]
-
-Chúng tôi là nhóm 5, chuyên nghành công nghệ phần mềm . Mục tiêu của chúng tôi là xây dựng 1 trang web bán laptop.
-
-## Thành viên
-| Tên          | Vai trò                       |
-|--------------|-----------------------|----------------------------|
-|Đinh Quang Thành      | Leader           | 
-| Phạm Huỳnh Nhật Huy     | Developer         
-| Nguyễn Thẩm Văn Hào    | Srum Master          |
-| Lưu Nhật Đăng    | Product Owner          |
-| Lê Đức Ngọc Huy  | Developer           | 
-| Nguyễn Hà Xuân Tài   | Developer         | 
-
-## Dự án hiện tại
-- **Web Bán Laptop**: Để cạnh tranh và tăng doanh thu cũng như mở rộng hoạt động kinh doanh, công ty muốn xây dựng một hệ thống thương mại điện tử nhằm mở rộng phạm vi bán hàng trực tuyến.
-
-</div>
-
 
