@@ -1,9 +1,19 @@
 # Thanh_T3C2
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Popins&weight=600&size=22&duration=6000&pause=1000&color=2784F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Quang+Thanh.;I'm+Software+Developer.)](https://git.io/typing-svg)
 <hr>
-<h3>Open Source Contributor</h3>
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kalp-prajapati.web.app/)
+
+<div align="center">
+  <h3> About Me :</h3>
+  <ul>
+    <li>:telescope: I’m a computer science student who loves coding and tech. Always learning and creating.</li>
+        <li>:telescope: I’m a Quick learner with a proactive attitude towards acquiring new skills and technologies.</li>
+    <li>:seedling:Coding Enthusiast: I breathe, eat, and dream in code! Whether it's crafting sleek web applications, exploring the depths of algorithms, or building robust software, I find joy in bringing ideas to life through programming. My curiosity and desire to constantly learn drive me to read everything about tech.</li>
+    <li>📚 Collaboration and Growth: I believe that communicating with people about technology is the best way to learn new and fascinating things. I thrive in team environments. I love to engage in meaningful discussions, share ideas, and contribute to open-source projects. Building a vibrant developer community is essential for collective progress.</li>
+
+ <li>📫 Contact: You can reach me via my <a href="mailto:chavideveloper@gmail.com">email</a> or via my <a href="https://www.linkedin.com/in/chavi-chaimson" >LinkedIn</a>.</li>
+
+  </ul>
+</div>
 
 ## Let's Connect 
 <p align="left">
@@ -48,17 +58,4 @@
   
 </div>
 
-
-<div align="center">
-  <h3> About Me :</h3>
-  <ul>
-    <li>:telescope: I’m a computer science student who loves coding and tech. Always learning and creating.</li>
-        <li>:telescope: I’m a Quick learner with a proactive attitude towards acquiring new skills and technologies.</li>
-    <li>:seedling:Coding Enthusiast: I breathe, eat, and dream in code! Whether it's crafting sleek web applications, exploring the depths of algorithms, or building robust software, I find joy in bringing ideas to life through programming. My curiosity and desire to constantly learn drive me to read everything about tech.</li>
-    <li>📚 Collaboration and Growth: I believe that communicating with people about technology is the best way to learn new and fascinating things. I thrive in team environments. I love to engage in meaningful discussions, share ideas, and contribute to open-source projects. Building a vibrant developer community is essential for collective progress.</li>
-
- <li>📫 Contact: You can reach me via my <a href="mailto:chavideveloper@gmail.com">email</a> or via my <a href="https://www.linkedin.com/in/chavi-chaimson" >LinkedIn</a>.</li>
-
-  </ul>
-</div>
 
