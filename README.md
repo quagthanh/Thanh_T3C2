@@ -22,8 +22,8 @@
 Chúng tôi là nhóm 5, chuyên nghành công nghệ phần mềm . Mục tiêu của chúng tôi là xây dựng 1 trang web bán laptop.
 
 ## Thành viên
-| Tên          | Vai trò                       |
-|--------------|-----------------------|----------------------------|
+| Tên          | Vai trò                |       
+|--------------|-----------------------|
 |Đinh Quang Thành      | Leader           | 
 | Phạm Huỳnh Nhật Huy     | Developer         
 | Nguyễn Thẩm Văn Hào    | Srum Master          |
