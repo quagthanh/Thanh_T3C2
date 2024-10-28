@@ -58,4 +58,16 @@ Chúng tôi là nhóm 5, chuyên nghành công nghệ phần mềm . Mục tiêu
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
+<p/>
+
+## Dự án cá nhân
+Ngoài các dự án nhóm, tôi cũng đã tham gia một số dự án cá nhân như:
+- **E-commerce **:Dự án tích hợp các tính năng như giỏ hàng, thanh toán an toàn, và đánh giá sản phẩm, mang lại trải nghiệm mua sắm mượt mà và tiện lợi..
+- **Book Reading Web**:Dự án này là một ứng dụng web cho phép người dùng truy cập và đọc sách trực tuyến. Với giao diện thân thiện, người dùng có thể tìm kiếm, lưu trữ và đánh dấu sách yêu thích, đồng thời nhận được các gợi ý dựa trên sở thích đọc của họ.
+- **Music Streaming Web**: Đây là một nền tảng phát nhạc trực tuyến cho phép người dùng nghe và khám phá các bài hát yêu thích. Dự án bao gồm tính năng tạo danh sách phát, tìm kiếm bài hát, và chia sẻ âm nhạc với bạn bè, mang đến trải nghiệm giải trí phong phú.
+
+
+
+
+
 
